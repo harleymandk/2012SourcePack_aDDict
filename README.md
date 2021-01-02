@@ -1,5 +1,7 @@
 # 2012SourcePack_aDDict
 aDDict-2_stuff
+From : https://conspiracy.hu/release/tool/
+
 Inspired by the recent wave of source code releases and the upcoming 10th
 birthday of Conspiracy, we give you the tools used to produce the bulk of
 our releases. This pack contains the source code for all of our stuff up
